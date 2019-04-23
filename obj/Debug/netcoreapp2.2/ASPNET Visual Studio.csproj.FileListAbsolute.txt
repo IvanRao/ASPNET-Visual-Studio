@@ -1,0 +1,35 @@
+G:\GitHub Repositories\ASPNET Visual Studio\bin\Debug\netcoreapp2.2\ASPNET Visual Studio.deps.json
+G:\GitHub Repositories\ASPNET Visual Studio\bin\Debug\netcoreapp2.2\ASPNET Visual Studio.runtimeconfig.json
+G:\GitHub Repositories\ASPNET Visual Studio\bin\Debug\netcoreapp2.2\ASPNET Visual Studio.runtimeconfig.dev.json
+G:\GitHub Repositories\ASPNET Visual Studio\bin\Debug\netcoreapp2.2\ASPNET Visual Studio.dll
+G:\GitHub Repositories\ASPNET Visual Studio\bin\Debug\netcoreapp2.2\ASPNET Visual Studio.pdb
+G:\GitHub Repositories\ASPNET Visual Studio\bin\Debug\netcoreapp2.2\ASPNET Visual Studio.Views.dll
+G:\GitHub Repositories\ASPNET Visual Studio\bin\Debug\netcoreapp2.2\ASPNET Visual Studio.Views.pdb
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.csprojAssemblyReference.cache
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.csproj.CoreCompileInputs.cache
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.RazorAssemblyInfo.cache
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.RazorAssemblyInfo.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.AssemblyInfoInputs.cache
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.AssemblyInfo.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.TagHelpers.input.cache
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.TagHelpers.output.cache
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.RazorCoreGenerate.cache
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.RazorTargetAssemblyInfo.cache
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.RazorTargetAssemblyInfo.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.Views.pdb
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.dll
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.pdb
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\ASPNET Visual Studio.csproj.CopyComplete
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
+G:\GitHub Repositories\ASPNET Visual Studio\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
