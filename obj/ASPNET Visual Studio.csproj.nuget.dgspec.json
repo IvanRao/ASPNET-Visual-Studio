@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub Repositories\\ASPNET Visual Studio\\ASPNET Visual Studio.csproj": {}
+    "C:\\Users\\irao\\Desktop\\Mio\\GitHub Repositories\\ASPNET-Visual-Studio\\ASPNET Visual Studio.csproj": {}
   },
   "projects": {
-    "G:\\GitHub Repositories\\ASPNET Visual Studio\\ASPNET Visual Studio.csproj": {
+    "C:\\Users\\irao\\Desktop\\Mio\\GitHub Repositories\\ASPNET-Visual-Studio\\ASPNET Visual Studio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub Repositories\\ASPNET Visual Studio\\ASPNET Visual Studio.csproj",
+        "projectUniqueName": "C:\\Users\\irao\\Desktop\\Mio\\GitHub Repositories\\ASPNET-Visual-Studio\\ASPNET Visual Studio.csproj",
         "projectName": "ASPNET Visual Studio",
-        "projectPath": "G:\\GitHub Repositories\\ASPNET Visual Studio\\ASPNET Visual Studio.csproj",
-        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub Repositories\\ASPNET Visual Studio\\obj\\",
+        "projectPath": "C:\\Users\\irao\\Desktop\\Mio\\GitHub Repositories\\ASPNET-Visual-Studio\\ASPNET Visual Studio.csproj",
+        "packagesPath": "C:\\Users\\irao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\irao\\Desktop\\Mio\\GitHub Repositories\\ASPNET-Visual-Studio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\irao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,7 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "http://vcs:8081/nexus/service/local/nuget/ZooLogicNuget": {},
+          "http://vcs:8081/nexus/service/local/nuget/ZooLogicNugetRC": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
